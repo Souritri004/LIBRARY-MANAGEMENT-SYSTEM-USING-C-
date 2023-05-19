@@ -1,0 +1,22 @@
+INTRODUCTION
+Library Management system is developed using C++ Programming Language and different variables, strings, classes have been used for the development of it. To store the data, it uses C++ OOPs and file handling concept. This project provides the best system for managing library records. In this project, we are creating two classes Students and books.
+The project has the following features based on which our program is built:
+•	Login
+•	Book issue
+•	Book modification
+•	Display book details
+•	Show the details of a student
+•	Modifying student record
+•	Search a book
+•	Search a student
+•	Calculating fine for late book return
+                                 OBJECTIVES
+
+Here are some of the objectives of the SRM Library Management System:
+1.We developed this as a simple computer- based application which can be used by the administrator for various purposes in managing library like book issue, modifying, adding or deleting a student’s record when necessary, adding, modifying and deleting a book, Calculating the fine if a book is returned late, availability of a particular book, searching a particular student etc.
+2. We developed it user-friendly
+3.We developed it computer-based system thatreduces error 
+4. We have made it efficient in handling the records of so many students and books which is manually impossible
+5.We provided flexibility
+6. We made the code which reduces time delay
+
